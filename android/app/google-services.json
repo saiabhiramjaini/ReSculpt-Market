@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509089769440",
+    "project_id": "resculpt-sih",
+    "storage_bucket": "resculpt-sih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509089769440:android:50996137921ac08f006d85",
+        "android_client_info": {
+          "package_name": "com.example.market_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGgScDFsEeIMvfRuiNqRYyvqCLIeUX3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
